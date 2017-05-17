@@ -7,7 +7,7 @@
 
 2. Add a Rigidbody2D componenent and set gravityScale to 0
 
-3. Download a png of a particle e.g. https://goo.gl/images/wOApT4 and add it to the game object
+3. Download a png of a particle e.g. via https://www.google.com/search?q=sprite+particle+png and add it to the game object
 
 4. Add script Dynamics to the game object
 
